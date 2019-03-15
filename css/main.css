@@ -6,7 +6,7 @@ body{
 header {
   width:100%; 
   background-color: #c3dbdd;
-  background-image: url("images/brick-wall-dark.png");
+  background-image: url("/images/brick-wall-dark.png");
   height: 20vw;
   margin-bottom:1vw;
 }
@@ -45,7 +45,7 @@ header {
 
 }
 .logo{
-  background-image: url("images/gravel.png");
+  background-image: url("/images/gravel.png");
   background-color:red;
   width:50%;
   height:3vw;
@@ -68,7 +68,7 @@ width:100%;
 .sidebar {
     width: 23%;
     float: left;
-    background-image: url("images/gravel.png");
+    background-image: url("/images/gravel.png");
     background-color: #c3dbdd;
     margin-right:1vw;
 
@@ -92,7 +92,7 @@ width:100%;
     float: right;
     
     background-color: white;
-    background-image: url("images/brick-wall-dark.png");
+    background-image: url("/images/brick-wall-dark.png");
 
 }
 .summary{
